@@ -1,5 +1,5 @@
 # Life expectany index prediction 💡
-In this project, are going to train a polynomial regression model on a dataset which contains some information about countries in each year.
+In this project, we are going to train a polynomial regression model on a dataset which contains some information about countries in each year.
 In the other word, the model will predict the life expectancy index of the given country using some features like GDP, BMI or some diseases
 criteria.
 <br>
