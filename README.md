@@ -1,7 +1,5 @@
 # Life expectany index prediction 💡
-In this project, we are going to train a polynomial regression model on a dataset which contains some information about countries in each year.
-In the other word, the model will predict the life expectancy index of the given country using some features like GDP, BMI or some diseases
-criteria.
+This project focuses on developing a polynomial regression model trained on a dataset that encompasses various metrics from multiple countries across different years. Specifically, the model aims to predict the life expectancy index of a given country based on several predictive features, including GDP, Body Mass Index (BMI), and health indicators related to prevalent diseases. The goal is to utilize these features to estimate life expectancy with a high degree of accuracy, providing valuable insights into how economic and health-related factors influence longevity.
 <br>
 <br>
 
